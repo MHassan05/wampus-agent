@@ -77,12 +77,6 @@ We:
 
 ---
 
-## Deployment
-
-Live URL: (Add your Vercel link here)
-
----
-
 ## Challenges Faced
 
 * Implementing Resolution Refutation
