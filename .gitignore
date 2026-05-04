@@ -1,0 +1,4 @@
+#skip word file and pdf file 
+*.docx
+*.pdf
+
